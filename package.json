@@ -1,0 +1,14 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "automation brownser",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Vazquez",
+  "license": "MIT",
+  "dependencies": {
+    "nightwatch": "^0.9.20"
+  }
+}
